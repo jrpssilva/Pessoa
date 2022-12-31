@@ -1,0 +1,8 @@
+check50:
+checks:
+hello word:
+- run: C hello.py
+stdout: hello, world!
+exit: 0
+
+
